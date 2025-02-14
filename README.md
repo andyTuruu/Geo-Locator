@@ -16,7 +16,7 @@ Check out the live demo on Netlify: [https://simple-geolocator.netlify.app/](htt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Geo-Locator.git
+   git clone https://github.com/yourusername/geo_locator.git
 2. Navigate to the project directory
 3. Install dependencies:
    ```bash
