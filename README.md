@@ -1,6 +1,6 @@
 # Simple Geolocator
 
-A simple, customizable React geolocator app built with React-Leaflet. This app uses the browser's Geolocation API to fetch your current coordinates and displays them on an interactive map.
+A simple, customizable React geolocator app built with React-Leaflet. This app uses the browser's Geolocation API to fetch your current coordinates and displays them on a map.
 
 ## Live Demo
 
